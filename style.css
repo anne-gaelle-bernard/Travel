@@ -846,7 +846,7 @@
       text-decoration: none;
     }
   /* Media Queries */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 320px) {
   /* Navigation */
   nav {
     flex-direction: column;
@@ -977,13 +977,13 @@
   margin-left: auto;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 320px) {
   .container {
     max-width: 540px;
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 320px) {
   .container {
     max-width: 720px;
   }

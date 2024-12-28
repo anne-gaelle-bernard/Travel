@@ -989,13 +989,13 @@
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 320px) {
   .container {
     max-width: 960px;
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 320px) {
   .container {
     max-width: 1140px;
   }
